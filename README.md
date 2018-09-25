@@ -3,7 +3,7 @@
 
 Simple Flappy Bird Duplace made based on tutorial. I'll add more stuff on my own to learn more about Phaser.js.
 
-You can find full product on [GitHub](https://liborzahradka.github.io/FlappyBird/).
+You can find full working game on [**GitHub Pages**](https://liborzahradka.github.io/FlappyBird/).
 
 ## Built With
 
